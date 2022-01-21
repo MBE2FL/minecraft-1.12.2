@@ -1,1 +1,23 @@
 /memory_repo
+/.mixin.out
+/config
+/crash-reports
+/journeymap
+/libraries
+/logs
+/orbis
+/snapshots-server
+/world
+/banned-ips.json
+/banned-players.json
+/eula.txt
+/forge_1.12.2_14.23.5.2859.jar
+/forge-1.12.2-14.23.5.2859-installer.jar
+/installer.log
+/minecraft_server.1.12.2.jar
+/ops.json
+/server.properties
+/Start Server.bat
+/usercache.json
+/usernamecache.json
+/whitelist.json
